@@ -1,0 +1,4 @@
+interface:
+  display_name: "Handcrafted Diptych Poster"
+  short_description: "Reference images into tactile miniature diptych posters"
+  default_prompt: "Use $handcrafted-diptych-poster-skill to turn my attached reference image into an equal-panel vertical art poster with a sparse handcrafted miniature below."
