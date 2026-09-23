@@ -4,7 +4,8 @@ Turn a reference image into a vertical art poster: an editorial reference presen
 
 The miniature preserves the image's defining silhouette, color relationships, and spatial structure through clay, felt, hand-cut paper, string, or cardboard. Think photographed art maquettes, visible fibers, and carefully cut edges, with generous negative space.
 
-**中文简介：** 将任意参考图转化为上下等高的双联艺术海报。上半呈现参考图，下半用黏土、毛毡、手剪纸、线绳或纸板提炼为微缩舞台装置。默认主体占下半画幅约 20–30%，保留大量留白，强调真实手工质感，避免幼稚玩具感和廉价模板感。
+**中文简介：** 将任意参考图转化为上下等高的双联艺术海报。上半呈现参考图，下半用黏土、毛毡、手剪纸、线绳或纸板提炼为微缩舞台装置。默认主体占下半画幅约 20–30%，保留大量留白，强调真实手工质感，避免幼稚玩具感和廉价模板感。<img width="1055" height="1491" alt="ChatGPT Image 2026年8月28日 11_43_39" src="https://github.com/user-attachments/assets/d471c427-ed66-4195-be3a-17559b42d509" />
+
 
 ## What this repository provides
 
